@@ -12,3 +12,8 @@ While explaining the complex and intricate architecture of this AI macine would 
 ![Alt text](Algorithmic-Diagrams/LSTM.png)
 ![Alt text](Algorithmic-Diagrams/Training.png)
 ![Alt text](Algorithmic-Diagrams/Forecasting.png)
+
+## Collaborators:
+[GRomeroNaranjo](http://github.com/GRomeroNaranjo)
+[WulfTheWanderer](http://github.com/WulfTheWanderer)
+[UrName51](http://github.com/UrName51)
