@@ -13,7 +13,8 @@ While explaining the complex and intricate architecture of this AI macine would 
 ![Alt text](Algorithmic-Diagrams/Training.png)
 ![Alt text](Algorithmic-Diagrams/Forecasting.png)
 
-## Collaborators:
+## Lead Collaborators:
 - [GRomeroNaranjo](http://github.com/GRomeroNaranjo) - AI Scientist, AI Developer, and API Backend Dev
-- [WulfTheWanderer](http://github.com/WulfTheWanderer) - no role yet
 - [UrName51](http://github.com/UrName51) - no role yet
+- [WulfTheWanderer](http://github.com/WulfTheWanderer) - no role yet
+
