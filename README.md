@@ -13,6 +13,10 @@ While explaining the complex and intricate architecture of this AI macine would 
 ![Alt text](Algorithmic-Diagrams/Training.png)
 ![Alt text](Algorithmic-Diagrams/Forecasting.png)
 
+## Accessing Information:
+This AI machine will be accessible for both developers, traders, and businesses. Individual traders will obtain access to our AI machine through our simple streamlined web application, while businesses or large enterprises will get access to our models through personalized plans coordinated directly by our team. Finally, developers will get access to our technology through our API interaction. This way, we can develop a diverse technology accessible and personalized to everyones professional necessities.
+
+
 ## Lead Collaborators:
 - [GRomeroNaranjo](http://github.com/GRomeroNaranjo) - AI Scientist, AI Developer, and API Backend Dev
 - [UrName51](http://github.com/UrName51) - no role yet
