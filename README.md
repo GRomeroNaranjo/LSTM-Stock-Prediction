@@ -14,6 +14,6 @@ While explaining the complex and intricate architecture of this AI macine would 
 ![Alt text](Algorithmic-Diagrams/Forecasting.png)
 
 ## Collaborators:
-[GRomeroNaranjo](http://github.com/GRomeroNaranjo)
-[WulfTheWanderer](http://github.com/WulfTheWanderer)
-[UrName51](http://github.com/UrName51)
+- [GRomeroNaranjo](http://github.com/GRomeroNaranjo) - AI Scientist, AI Developer, and API Backend Dev
+- [WulfTheWanderer](http://github.com/WulfTheWanderer) - no role yet
+- [UrName51](http://github.com/UrName51) - no role yet
