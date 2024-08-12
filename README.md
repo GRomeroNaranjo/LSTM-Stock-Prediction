@@ -8,3 +8,7 @@ While this project is also aimed for professionals, the main goal is to make tra
 
 ## Used Concepts:
 While explaining the complex and intricate architecture of this AI macine would take a whole research paper, here is a streamlined explanation. First of all, this financial model uses a tool called LSTM, this is a type of neural network. In essence a neural network learns from the mistakes while utilizing backpropagation, calculus, and partial derivatives within the learning process. This way it can update the parameters to achieve more accurate results. Although this is valid, this would represent a simple feed forward neural network, an LSTM is a type of recurrent neural network. Subsequently, it reucurs through the data. Although, an LSTM differs from a recurrent neural network by avoiding vanishing/exploding gradients and by also maintaining a long term interaction to the data. This way it can produce more accurate predictions. Find some diagrams below: 
+
+![Alt text](Algorithmic-Diagrams/LSTM.png)
+![Alt text](Algorithmic-Diagrams/Training.png)
+![Alt text](Algorithmic-Diagrams/Forecasting.png)
