@@ -20,8 +20,4 @@ This AI machine will be accessible for both developers, traders, and businesses.
 While this machine does use proved mathematical formulas and algorithms, it does not provide guaranteed predictions, it simply learns based on passed events to provide future mathematical based predictions. Subsequently, it does not take real world considerations into account. In conclusion, while this project articulates a strong machine learning model it is always important to verify financial decisions, and not to entirely rely on the model.
 
 
-## Lead Collaborators:
-- [GRomeroNaranjo](http://github.com/GRomeroNaranjo) - AI Scientist, AI Developer, and API Backend Dev
-- [UrName51](http://github.com/UrName51) - no role yet
-- [WulfTheWanderer](http://github.com/WulfTheWanderer) - no role yet
 
