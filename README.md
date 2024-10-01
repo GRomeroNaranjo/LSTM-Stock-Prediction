@@ -1,7 +1,7 @@
-# TrendX.2.0
+# TrendX
 
 ## About:
-This repository aims to implement LSTM neural networks into predicting future stock prices, and business growth. This repository not only represents a successful tool for businesses, but also a bright investing partner for individual investors. While utilizing short and long term interactions this project can be successfully implemented. To conclude, this project streamlines trading for everyone, it provides a tool for everyone to become a professional trader without any background skills required.
+This repository aims to implement LSTM neural networks into predicting future stock prices, and business growth. This repository not only represents a successful tool for businesses, but also a bright investing partner for individual investors. While utilizing short and long term interactions this project can be successfully implemented. To conclude, this project streamlines trading for everyone, it provides a tool for everyone to become a professional trader without any background skills required. (NOTE: TrendX is currently in production, current version is based around RNNs not LSTMs, the LSTM implementation is being worked on)
 
 ## Problem Statement:
 While this project is also aimed for professionals, the main goal is to make trading successful for everyone. It is to provide an accessible tool for anyone to become a trader and get enhanced revenue. It is to give everyone the required tools to succeed in the stock market, while leveraging advanced AI tools. This model represents a new intelligent tool for financial interactions.
