@@ -1,4 +1,4 @@
-# LSTM-Stock-Prediction
+# TrendX.2.0
 
 ## About:
 This repository aims to implement LSTM neural networks into predicting future stock prices, and business growth. This repository not only represents a successful tool for businesses, but also a bright investing partner for individual investors. While utilizing short and long term interactions this project can be successfully implemented. To conclude, this project streamlines trading for everyone, it provides a tool for everyone to become a professional trader without any background skills required.
